@@ -273,8 +273,7 @@ footer section:nth-of-type(2) section a img:first-of-type{
 main section:first-of-type{
 	padding:2em;
 	padding-top:5em;
-	background-image: url('../images/pagina-1/bus-overlay.jpg');
-	background-repeat: no-repeat;
+	background-image: url('../images/busoverlay.jpg');
 	background-size: cover;
 }
 
